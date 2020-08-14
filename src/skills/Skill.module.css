@@ -1,0 +1,12 @@
+.Skill {
+  width: 100px;
+  height: 140px;
+  margin: 20px 30px;
+  padding-bottom: 40px;
+}
+
+.SkillName {
+  width: 100%;
+  text-align: center;
+  margin-top: -20px;
+}

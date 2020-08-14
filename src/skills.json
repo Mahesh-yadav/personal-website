@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "category": "frontend",
+    "level": 90
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "category": "frontend",
+    "level": 90
+  },
+  {
+    "id": 3,
+    "name": "Sass",
+    "category": "frontend",
+    "level": 70
+  },
+  {
+    "id": 4,
+    "name": "Javascript",
+    "category": "frontend",
+    "level": 75
+  },
+  {
+    "id": 5,
+    "name": "NodeJS",
+    "category": "backend",
+    "level": 65
+  },
+  {
+    "id": 6,
+    "name": "Express.js",
+    "category": "backend",
+    "level": 80
+  },
+  {
+    "id": 7,
+    "name": "GIT",
+    "category": "tools",
+    "level": 70
+  },
+  {
+    "id": 8,
+    "name": "Bootstrap",
+    "category": "frontend",
+    "level": 85
+  },
+  {
+    "id": 9,
+    "name": "React",
+    "category": "frontend",
+    "level": 90
+  },
+  {
+    "id": 10,
+    "name": "Vue",
+    "category": "frontend",
+    "level": 40
+  },
+  {
+    "id": 25,
+    "name": "styled-components",
+    "category": "frontend",
+    "level": 65
+  },
+  {
+    "id": 11,
+    "name": "Typescript",
+    "category": "frontend",
+    "level": 30
+  },
+  {
+    "id": 12,
+    "name": "Jest",
+    "category": "backend",
+    "level": 50
+  },
+  {
+    "id": 13,
+    "name": "Redux",
+    "category": "frontend",
+    "level": 60
+  },
+  {
+    "id": 14,
+    "name": "MongoDB",
+    "category": "backend",
+    "level": 65
+  },
+  {
+    "id": 15,
+    "name": "Babel",
+    "category": "tools",
+    "level": 80
+  },
+  {
+    "id": 16,
+    "name": "Webpack",
+    "category": "tools",
+    "level": 45
+  },
+  {
+    "id": 17,
+    "name": "ESLint",
+    "category": "tools",
+    "level": 75
+  },
+  {
+    "id": 18,
+    "name": "VS Code",
+    "category": "tools",
+    "level": 80
+  },
+  {
+    "id": 19,
+    "name": "Postman",
+    "category": "tools",
+    "level": 75
+  },
+  {
+    "id": 20,
+    "name": "yarn",
+    "category": "tools",
+    "level": 85
+  },
+  {
+    "id": 21,
+    "name": "npm",
+    "category": "tools",
+    "level": 85
+  },
+  {
+    "id": 22,
+    "name": "D3",
+    "category": "frontend",
+    "level": 20
+  },
+  {
+    "id": 23,
+    "name": "GraphQL",
+    "category": "backend",
+    "level": 40
+  },
+  {
+    "id": 24,
+    "name": "REST API",
+    "category": "backend",
+    "level": 75
+  },
+  {
+    "id": 26,
+    "name": "Gatsby",
+    "category": "frontend",
+    "level": 25
+  },
+  {
+    "id": 27,
+    "name": "Next.js",
+    "category": "frontend",
+    "level": 15
+  }
+]
