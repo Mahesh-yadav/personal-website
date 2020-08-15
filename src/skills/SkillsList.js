@@ -2,7 +2,7 @@ import React from 'react';
 import Skill from './Skill';
 import SectionTitle from '../components/SectionTitle';
 import styles from './SkillsList.module.css';
-import data from '../skills.json';
+import data from './skills.json';
 
 const SkillsList = () => {
   // Fisher-Yates shuffle Algorithm

@@ -3,6 +3,12 @@
   src: url(./assets/fonts/Baloo_Tamma_2/BalooTamma2-Regular.ttf);
 }
 
+@font-face {
+  font-family: 'Baloo Tamma 2';
+  src: url(./assets/fonts/Baloo_Tamma_2/BalooTamma2-Medium.ttf);
+  font-weight: 500;
+}
+
 html {
   box-sizing: border-box;
 }
@@ -19,6 +25,18 @@ body {
 }
 
 .container {
-  width: 90vw;
+  width: 100vw;
   margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+  .container {
+    width: 90vw;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 80vw;
+  }
 }

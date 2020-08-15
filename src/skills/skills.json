@@ -60,12 +60,6 @@
     "level": 40
   },
   {
-    "id": 25,
-    "name": "styled-components",
-    "category": "frontend",
-    "level": 65
-  },
-  {
     "id": 11,
     "name": "Typescript",
     "category": "frontend",
@@ -76,12 +70,6 @@
     "name": "Jest",
     "category": "backend",
     "level": 50
-  },
-  {
-    "id": 13,
-    "name": "Redux",
-    "category": "frontend",
-    "level": 60
   },
   {
     "id": 14,
@@ -120,24 +108,6 @@
     "level": 75
   },
   {
-    "id": 20,
-    "name": "yarn",
-    "category": "tools",
-    "level": 85
-  },
-  {
-    "id": 21,
-    "name": "npm",
-    "category": "tools",
-    "level": 85
-  },
-  {
-    "id": 22,
-    "name": "D3",
-    "category": "frontend",
-    "level": 20
-  },
-  {
     "id": 23,
     "name": "GraphQL",
     "category": "backend",
@@ -148,17 +118,5 @@
     "name": "REST API",
     "category": "backend",
     "level": 75
-  },
-  {
-    "id": 26,
-    "name": "Gatsby",
-    "category": "frontend",
-    "level": 25
-  },
-  {
-    "id": 27,
-    "name": "Next.js",
-    "category": "frontend",
-    "level": 15
   }
 ]

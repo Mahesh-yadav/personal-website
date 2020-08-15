@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Countries REST API",
+    "description": "It displays countries data fetched from a REST API and allow users to view country details",
+    "features": [
+      "Search countries by name",
+      "Filter countries by Region",
+      "View country details",
+      "Switch between light and dark themes"
+    ],
+    "link": "https://rest-countries-api-five.vercel.app/",
+    "image": "images/react-rest-countries.png",
+    "imageMobile": "images/react-rest-countries-mobile.png",
+    "category": "react"
+  },
+  {
+    "id": 2,
+    "title": "PhotoX",
+    "description": "A demo website for a photo company.",
+    "features": [
+      "Responsive and fixed navigation bar",
+      "Animation on page scroll",
+      "Testimonials with slide show",
+      "Picture Gallery with tab filters"
+    ],
+    "link": "https://bootstrap-projects.vercel.app/photoX/index.html",
+    "image": "images/bootstrap-photox.png",
+    "imageMobile": "images/bootstrap-photox-mobile.png",
+    "category": "bootstrap"
+  },
+  {
+    "id": 3,
+    "title": "Admin Dashboard",
+    "description": "A demo admin dashboard website of a fake company",
+    "features": [
+      "Top and Side navigation bars",
+      "Login/Logout modal",
+      "Statistics Cards",
+      "Salary and Payment tables",
+      "Tasks and Activities List"
+    ],
+    "link": "https://bootstrap-projects.vercel.app/admin-dashboard/index.html",
+    "image": "images/bootstrap-dashboard.png",
+    "imageMobile": "images/bootstrap-dashboard-mobile.png",
+    "category": "bootstrap"
+  }
+]

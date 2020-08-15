@@ -1,0 +1,122 @@
+.Projects {
+  background-color: #10121f;
+  background-color: #c2cbee;
+  color: #c2cbee;
+  color: #10121f;
+  padding: 20px 20px 40px 20px;
+  border-radius: 3px;
+  margin-bottom: 30px;
+}
+
+.CategoryTitle {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.ProjectControls {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: #f25f3a;
+}
+
+.ProjectControls p {
+  margin-right: 20px;
+  font-weight: 500;
+}
+
+.Button {
+  background-color: #f25f3a;
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  transition: transform 0.3s;
+}
+
+.Button:active {
+  transform: scale(0.96);
+}
+
+.Button:last-child {
+  margin-left: 5px;
+}
+
+@media (min-width: 768px) {
+  .ProjectControls p {
+    font-size: 1.5rem;
+  }
+
+  .Button {
+    font-size: 1.5rem;
+  }
+}
+
+.Project {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Project img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.Project picture {
+  margin-bottom: 10px;
+}
+
+.ProjectTitle {
+  margin-bottom: 0;
+  font-size: 1.2rem;
+}
+
+.ProjectDesc {
+  margin-top: 0;
+}
+
+.ProjectFeatures h5 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.ProjectFeatures ul {
+  list-style: none;
+  margin: 0;
+  margin-bottom: 20px;
+  padding-left: 10px;
+}
+
+.ProjectDemo {
+  background-color: white;
+  padding: 5px 20px;
+  border-radius: 5px;
+  color: #10121f;
+}
+
+.ProjectDemo i {
+  margin-left: 10px;
+}
+
+@media (min-width: 1000px) {
+  .Project {
+    flex-direction: row;
+  }
+
+  .ProjectImage {
+    flex: 4;
+    margin-right: 50px;
+  }
+
+  .ProjectText {
+    flex: 3;
+  }
+
+  .ProjectTitle {
+    margin: 0;
+  }
+}
