@@ -9,7 +9,8 @@
       "View country details",
       "Switch between light and dark themes"
     ],
-    "link": "https://rest-countries-api-five.vercel.app/",
+    "liveUrl": "https://rest-countries-api-five.vercel.app/",
+    "githubRepo": "https://github.com/Mahesh-yadav/rest-countries-api",
     "image": "images/react-rest-countries.png",
     "imageMobile": "images/react-rest-countries-mobile.png",
     "category": "react"
@@ -24,7 +25,8 @@
       "Testimonials with slide show",
       "Picture Gallery with tab filters"
     ],
-    "link": "https://bootstrap-projects.vercel.app/photoX/index.html",
+    "liveUrl": "https://bootstrap-projects.vercel.app/photoX/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/bootstrap-projects/tree/master/photoX",
     "image": "images/bootstrap-photox.png",
     "imageMobile": "images/bootstrap-photox-mobile.png",
     "category": "bootstrap"
@@ -32,7 +34,7 @@
   {
     "id": 3,
     "title": "Admin Dashboard",
-    "description": "A demo admin dashboard website of a fake company",
+    "description": "A demo admin dashboard website of a fictional company",
     "features": [
       "Top and Side navigation bars",
       "Login/Logout modal",
@@ -40,9 +42,163 @@
       "Salary and Payment tables",
       "Tasks and Activities List"
     ],
-    "link": "https://bootstrap-projects.vercel.app/admin-dashboard/index.html",
+    "liveUrl": "https://bootstrap-projects.vercel.app/admin-dashboard/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/bootstrap-projects/tree/master/admin-dashboard",
     "image": "images/bootstrap-dashboard.png",
     "imageMobile": "images/bootstrap-dashboard-mobile.png",
     "category": "bootstrap"
+  },
+  {
+    "id": 4,
+    "title": "Chat App Illustration",
+    "description": "A webpage component displaying chat interface illustration styled using HTML and CSS only",
+    "features": [
+      "Responsive layout",
+      "Animation of chat interface on initial load"
+    ],
+    "liveUrl": "https://sass-projects.vercel.app/chat-app-css-illustration/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/sass-projects/tree/master/chat-app-css-illustration",
+    "image": "images/sass-chat-illustration.png",
+    "imageMobile": "images/sass-chat-illustration-mobile.png",
+    "category": "sass"
+  },
+  {
+    "id": 5,
+    "title": "Clothing Store",
+    "description": "A demo website for a clothing store",
+    "features": [
+      "Responsive layout",
+      "Image slideshow",
+      "Product image with hover effect"
+    ],
+    "liveUrl": "https://sass-projects.vercel.app/clothing-store/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/sass-projects/tree/master/clothing-store",
+    "image": "images/sass-clothing-store.png",
+    "imageMobile": "images/sass-clothing-store-mobile.png",
+    "category": "sass"
+  },
+  {
+    "id": 6,
+    "title": "Easybank Landing Page",
+    "description": "A landing page for a fictional bank website",
+    "features": ["Responsive layout", "Hover state for interactive elements"],
+    "liveUrl": "https://sass-projects.vercel.app/easybank-landing-page/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/sass-projects/tree/master/easybank-landing-page",
+    "image": "images/sass-easybank.png",
+    "imageMobile": "images/sass-easybank-mobile.png",
+    "category": "sass"
+  },
+  {
+    "id": 7,
+    "title": "Georgia Restaurant",
+    "description": "A demo website for a fictional restaurant",
+    "features": [
+      "Responsive layout",
+      "Animated navigation menu toggle",
+      "Dishes gallery with text overlay"
+    ],
+    "liveUrl": "https://sass-projects.vercel.app/georgia-restaurant/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/sass-projects/tree/master/georgia-restaurant",
+    "image": "images/sass-restaurant.png",
+    "imageMobile": "images/sass-restaurant-mobile.png",
+    "category": "sass"
+  },
+  {
+    "id": 8,
+    "title": "Static Job Listing",
+    "description": "A landing page for a fictional bank website",
+    "features": [
+      "Responsive layout",
+      "Hover state for interactive elements",
+      "Filter job listings based on the categories"
+    ],
+    "liveUrl": "https://sass-projects.vercel.app/static-job-listings/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/sass-projects/tree/master/static-job-listings",
+    "image": "images/sass-static-job-listing.png",
+    "imageMobile": "images/sass-static-job-listing-mobile.png",
+    "category": "sass"
+  },
+  {
+    "id": 9,
+    "title": "Text to Speech Reader",
+    "description": "A text to speech app for non-verbal people. Pre-made buttons and custom text speech. This project uses the Web Speech API",
+    "features": [
+      "Create responsive UI (CSS Grid) with picture buttons",
+      "Speaks the text when button clicked",
+      "Drop down custom text to speech",
+      "Speaks the text typed in",
+      "Change voices and accents"
+    ],
+    "liveUrl": "https://javascript-projects.vercel.app/speech-text-reader/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/javascript-projects/tree/master/speech-text-reader",
+    "image": "images/js-text-speech.png",
+    "imageMobile": "images/js-text-speech-mobile.png",
+    "category": "javascript"
+  },
+  {
+    "id": 10,
+    "title": "Hangman Game",
+    "description": "Select a letter to figure out a hidden word in a set amount of chances",
+    "features": [
+      "Display hangman pole and figure using SVG",
+      "Display correct and incorrect letters",
+      "Show notification when select a letter twice",
+      "Show popup on win or lose"
+    ],
+    "liveUrl": "https://javascript-projects.vercel.app/hangman/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/javascript-projects/tree/master/hangman",
+    "image": "images/js-hangman.png",
+    "imageMobile": "images/js-hangman-mobile.png",
+    "category": "javascript"
+  },
+  {
+    "id": 11,
+    "title": "Exchange Rate Calculator",
+    "description": "Select countries to get the exchange rate for a specific amount",
+    "features": [
+      "Display UI with 2 select lists for countries and 1 input for currency amount",
+      "Fetch exchange rates from ExchangeRate-API",
+      "Display the currency amounts for both countries",
+      "Swap country rates"
+    ],
+    "liveUrl": "https://javascript-projects.vercel.app/exchange-rate/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/javascript-projects/tree/master/exchange-rate",
+    "image": "images/js-exchange-rate.png",
+    "imageMobile": "images/js-exchange-rate-mobile.png",
+    "category": "javascript"
+  },
+  {
+    "id": 12,
+    "title": "Income Expense Tracker",
+    "description": "Keep track of income and expenses. Add and remove items and save to local storage",
+    "features": [
+      "Show balance, expense and income totals",
+      "Add new transation and reflect in total",
+      "Delete items from DOM",
+      "Persist to local storage"
+    ],
+    "liveUrl": "https://javascript-projects.vercel.app/expense-tracker/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/javascript-projects/tree/master/expense-tracker",
+    "image": "images/js-expense-tracker.png",
+    "imageMobile": "images/js-expense-tracker-mobile.png",
+    "category": "javascript"
+  },
+  {
+    "id": 13,
+    "title": "Movie Seat Booking",
+    "description": "Display movie choices and seats in a theater to select from in order to purchase tickets",
+    "features": [
+      "Display UI with movie select, screen, seats, legend & seat info",
+      "User can select a movie/price",
+      "User can select/deselect seats",
+      "User can not select occupied seats",
+      "Number of seats and price will update",
+      "Save seats, movie and price to local storage so that UI is still populated on refresh"
+    ],
+    "liveUrl": "https://javascript-projects.vercel.app/movie-seat-booking/index.html",
+    "githubRepo": "https://github.com/Mahesh-yadav/javascript-projects/tree/master/movie-seat-booking",
+    "image": "images/js-movie-seat.png",
+    "imageMobile": "images/js-movie-seat-mobile.png",
+    "category": "javascript"
   }
 ]

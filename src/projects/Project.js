@@ -1,5 +1,6 @@
 import React from 'react';
 import styles from './Projects.module.css';
+import ProjectLink from './ProjectLink';
 
 const Project = ({ project }) => {
   return (
@@ -31,15 +32,21 @@ const Project = ({ project }) => {
             ))}
           </ul>
         </div>
-        <a
-          href={project.link}
-          className={styles.ProjectDemo}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Live Demo
-          <i className="fas fa-external-link-alt"></i>
-        </a>
+        <div className={styles.ProjectLinks}>
+          <a
+            href={project.githubRepo}
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Github Repo"
+            className={styles.GithubRepo}
+          >
+            <i className="fab fa-github-square fa-3x"></i>
+          </a>
+          <ProjectLink url={project.liveUrl}>
+            Live Demo
+            <i className="fas fa-external-link-alt"></i>
+          </ProjectLink>
+        </div>
       </div>
     </div>
   );
