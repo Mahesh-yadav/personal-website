@@ -18,7 +18,7 @@ const SkillsList = () => {
   };
 
   return (
-    <div className="container">
+    <div className="container" id="skills">
       <SectionTitle title="Skills" />
       <div className={styles.SkillsList}>
         {shuffleSkills(data).map((skill) => (

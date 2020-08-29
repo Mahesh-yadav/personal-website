@@ -17,7 +17,7 @@ const ProjectsContainer = () => {
   const categories = getCategories();
 
   return (
-    <div className="container">
+    <div className="container" id="projects">
       <SectionTitle title="Projects" />
       {categories.map((category) => (
         <Projects

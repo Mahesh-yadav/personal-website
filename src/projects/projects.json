@@ -200,5 +200,20 @@
     "image": "images/js-movie-seat.png",
     "imageMobile": "images/js-movie-seat-mobile.png",
     "category": "javascript"
+  },
+  {
+    "id": 14,
+    "title": "Browse Recipes",
+    "description": "It displays recipes fetched from a REST API and allow users to view recipe details",
+    "features": [
+      "Search recipe by name",
+      "View recipe details",
+      "Mark recipes as favorite"
+    ],
+    "liveUrl": "https://frozen-thicket-40991.herokuapp.com/",
+    "githubRepo": "https://github.com/Mahesh-yadav/recipes-app",
+    "image": "images/react-recipes.png",
+    "imageMobile": "images/react-recipes-mobile.png",
+    "category": "react"
   }
 ]
