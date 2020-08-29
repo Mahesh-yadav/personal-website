@@ -1,0 +1,28 @@
+.NavBar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  transition: all 0.5s;
+}
+
+.NavLinks {
+  list-style: none;
+  display: flex;
+}
+
+.NavLink {
+  text-decoration: none;
+  color: #880e4f;
+  border: solid 1px transparent;
+  padding: 1px 10px;
+  transition: border 0.4s;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.NavLink:hover {
+  border: solid 1px #880e4f;
+}
